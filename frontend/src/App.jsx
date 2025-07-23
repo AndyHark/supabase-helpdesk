@@ -1,1 +1,4 @@
-// React app logic for dashboard, ticket list, etc.
+import React from 'react'
+export default function App() {
+  return <h1>Hello from Helpdesk Frontend!</h1>
+}
